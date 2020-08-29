@@ -29,7 +29,7 @@ to unmeasured confounding and mediator measurement error. <a href="https://journ
 This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of one individual may depend on interventions received by other individuals; and long range dependence, whereby outcomes for any two individuals in the network may be dependent. We apply our methods to a sexual and injection drug use network to evaluate the effect of incarceration on HIV and STI transmission.
 
 + Tchetgen Tchetgen, E. J., <u>Fulcher, I. R.</u>, and Shpitser, I. (2018). Auto-g-computation of causal effects on a
-network. In revision. <a href="https://arxiv.org/abs/1709.01577">arXiv preprint arXiv:1709.01577</a>. <br /> <br />
+network. <a href="https://arxiv.org/abs/1709.01577"> In press at the Journal of the American Statistical Association</a>. <br /> <br />
 
 <center> <strong style="font-size: 135%;"> Sexual and reproductive health </strong> </center> 
 I work with several national and global organizations that aim to improve the delivery of sexual and reproductive health to vulnerable populations. The goal of my work is to support and grow  research efforts through the use of causal inference and data science. 
