@@ -4,38 +4,39 @@ title: Research
 subtitle: 
 ---
 
-<i> Selected publications by topic listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i>
+<i> Selected material by topic is listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i>
 
-<center> <strong style="font-size: 135%;"> Causal mediation analysis </strong> </center>
-Instead of focusing on the total effect of an exposure (e.g. HIV status) on outcome (e.g. age of sexual maturity), one may also be interested in understanding the effect through some intermediate variable (e.g. height). Causal queries of this type require stringent assumptions about the relationships between these variables that may not hold in the absence of a randomized trial (e.g. socioeconomic status may induce an association between HIV status and height). The methods developed here seek to clarify and relax the assumptions needed for identification of causal effects.
+<center> <strong style="font-size: 135%;"> Data-driven COVID-19 response </strong> </center> 
+I am currently working in partnership with Partners in Health sites to utilize routine data for COVID-19 response in seven countries. The work spans conducting syndromic surveillance, assessing disruptions in health service utilization, and serosurveillance studies in various at-risk populations. 
 
-<strong style="font-size: 110%;"> Publications </strong> 
++ Fulcher, I. R., Clisbee, M., Lambert, W., Leandre, F., Hedt-Gauthier, B. (2020). Adapting Lot Quality Assurance Sampling to accommodate imperfect tests: application to COVID-19 serosurveillance in Haiti. <a href="https://www.medrxiv.org/content/10.1101/2020.09.11.20193052v1"> Pre-print on medRxiv. <i> See <a href="https://github.com/isabelfulcher/lqas_imp">code</a> to implement the the LQAS-IMP procedure.
 
-+ <u>Fulcher, I. R.</u>, Tchetgen Tchetgen E. J., & Williams, P. L. (2017). Mediation analysis for censored survival
++ <a href="https://www.pih.org/article/seven-country-study-examining-covid-19-impacts-health-services" style="color:#800000">Blog post</a> from Partners in Health about our ongoing health service utilization work, which was recently funded by the Canadian Institutes of Health Reserach.
+
++ <a href="https://harvard.zoom.us/rec/play/u5F_I-2gqj83HNORuASDB_AtW9XoKK-s13UWrvZexB3nVHMBZFv0b7IWY7ODLiLUyMyT81ZGl74az45a?autoplay=true&startTime=1598465056000" style="color:#800000">Presentation</a> to the Coronavirus Visualization Team in August 2020.
+
+
+<center> <strong style="font-size: 135%;"> Causal inference methods </strong> </center>
+My causal inference methods research currently falls in two areas: (1) causal mediation analysis and (2) estimating causal effects on a network of interconnected units. I am interested in developing methods that relax common assumptions in causal inference required for identification of causal effects. Causal queries often require stringent assumptions about the relationships between these variables that may not hold in the absence of a randomized trial. 
+
++ Fulcher, I. R., Tchetgen Tchetgen E. J., & Williams, P. L. (2017). Mediation analysis for censored survival
 data under an accelerated failure time model. <a href="http://journals.lww.com/epidem/Citation/2017/09000/Mediation_Analysis_for_Censored_Survival_Data.5.aspx">Epidemiology, 28(5), 660-666</a>. 
 
-+ <u>Fulcher, I. R.</u>, Shi, X., & Tchetgen Tchetgen, E. J. (2019). Estimation of natural indirect effects robust
++ Fulcher, I. R., Shi, X., & Tchetgen Tchetgen, E. J. (2019). Estimation of natural indirect effects robust
 to unmeasured confounding and mediator measurement error. <a href="https://journals.lww.com/epidem/Abstract/2019/11000/Estimation_of_Natural_Indirect_Effects_Robust_to.8.aspx">Epidemiology, 30(6), 825-834</a>.
 
-+ <u>Fulcher, I. R.</u>, Shpitser, I., & Tchetgen Tchetgen, E. J. (2019). Robust inference on population indirect causal effects: the generalized front-door criterion. <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12345"> Journal of Royal Statistics Society Series B, 82(1), 199-214</a>.
++ Fulcher, I. R., Shpitser, I., & Tchetgen Tchetgen, E. J. (2019). Robust inference on population indirect causal effects: the generalized front-door criterion. <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12345"> Journal of Royal Statistics Society Series B, 82(1), 199-214</a>.
 
-<strong style="font-size: 110%;"> Additional materials </strong> 
++ Tchetgen Tchetgen, E. J., Fulcher, I. R., and Shpitser, I. (2020). Auto-g-computation of causal effects on a
+network. <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1811098?journalCode=uasa207"> Journal of the American Statistical Association</a>. <br /> <br /> <i> See my  <a href="https://twitter.com/isabelfulcher/status/1296477382115827714">"tweetorial"</a> where I describe the motivation and setup of this paper. </i>
 
-+ **Conference presentations:** <a href="https://isabelfulcher.github.io/img/jsm2017.pdf">JSM 2017 presentation</a>; <a href="https://isabelfulcher.github.io/img/enar2018.pdf">ENAR 2018 presentation</a>; <a href="https://isabelfulcher.github.io/img/acic2018.pdf">ACIC 2018 poster</a>; <a href="https://isabelfulcher.github.io/img/enar2019.pdf">ENAR 2019 presentation</a>
-
-+ **Software:** <a href="https://isabelfulcher.github.io/frontdoorpiie/">frontdoorpiie</a> R package  <br /> <br />
-
-<center> <strong style="font-size: 135%;"> Network causal effects </strong>  </center>
-This work provides methodology to estimate network causal effects in the presence of arbitrary forms of interference, whereby the outcome of one individual may depend on interventions received by other individuals; and long range dependence, whereby outcomes for any two individuals in the network may be dependent. We apply our methods to a sexual and injection drug use network to evaluate the effect of incarceration on HIV and STI transmission.
-
-+ Tchetgen Tchetgen, E. J., <u>Fulcher, I. R.</u>, and Shpitser, I. (2018). Auto-g-computation of causal effects on a
-network. <a href="https://arxiv.org/abs/1709.01577"> In press at the Journal of the American Statistical Association</a>. <br /> <br />
 
 <center> <strong style="font-size: 135%;"> Sexual and reproductive health </strong> </center> 
-I work with several national and global organizations that aim to improve the delivery of sexual and reproductive health to vulnerable populations. The goal of my work is to support and grow  research efforts through the use of causal inference and data science. 
+I work with several organizations that aim to improve the delivery of sexual and reproductive health. The goal of my work is to support and grow research efforts through the use of causal inference and data science. 
 
-+ Janiak, E., <u>Fulcher, I. R.</u>, ..., & Goldberg, A. (2019). Impact of Massachusetts’ parental involvement law
-on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>. <i> See awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> for summary of results. </i>
++ Janiak, E., Fulcher, I. R., ..., & Goldberg, A. (2019). Impact of Massachusetts’ parental involvement law
+on procedural timing among adolescents seeking abortion. <a href="https://journals.lww.com/greenjournal/Fulltext/2019/05000/Massachusetts__Parental_Consent_Law_and_Procedural.19.aspx">Obstetrics & Gynecology, 133(5), 978</a>. <i> See awesome <a href="https://www.plannedparenthoodaction.org/uploads/filer_public/80/d6/80d62544-5038-4e81-a6de-de013f3abb78/minors_infographic_v9.pdf">infographic</a> for summary of results (not created by me). </i>
 
-+ <u>Fulcher, I. R.</u>, Hedt, K., Marealle, S., Abdalla O., Tibaijuka, J., Hoffman, R., Layer, E., Mitchell, M., and Hedt-Gauthier, B. (2020). Errors in estimated gestational ages reduce the likelihood of health facility deliveries: results from an observational cohort study in Zanzibar. <a href="https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-4904-5">BMC Health Services Research</a>.
++ Fulcher, I. R., Hedt, K., Marealle, S., Abdalla O., Tibaijuka, J., Hoffman, R., Layer, E., Mitchell, M., and Hedt-Gauthier, B. (2020). Errors in estimated gestational ages reduce the likelihood of health facility deliveries: results from an observational cohort study in Zanzibar. <a href="https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-4904-5">BMC Health Services Research</a>. <i> See <a href="https://www.d-tree.org/post/errors-in-estimated-delivery-dates-explanation-impact-and-a-path-forward">blog post</a> that summarizes implications of these findings for summary of results. </i>
+
 
