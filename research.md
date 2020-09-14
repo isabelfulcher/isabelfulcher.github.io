@@ -9,7 +9,7 @@ subtitle:
 <center> <strong style="font-size: 135%;"> Data-driven COVID-19 response </strong> </center> 
 I am currently working in partnership with Partners in Health sites to utilize routine data for COVID-19 response in seven countries. The work spans conducting syndromic surveillance, assessing disruptions in health service utilization, and serosurveillance studies in various at-risk populations. 
 
-+ Fulcher, I. R., Clisbee, M., Lambert, W., Leandre, F., Hedt-Gauthier, B. (2020). Adapting Lot Quality Assurance Sampling to accommodate imperfect tests: application to COVID-19 serosurveillance in Haiti. <a href="https://www.medrxiv.org/content/10.1101/2020.09.11.20193052v1" style="color:#800000"> Pre-print on medRxiv. </a> <i> See <a href="https://github.com/isabelfulcher/lqas_imp" style="color:#800000">code</a> to implement the the LQAS-IMP procedure.
++ Fulcher, I. R., Clisbee, M., Lambert, W., Leandre, F., Hedt-Gauthier, B. (2020). Adapting Lot Quality Assurance Sampling to accommodate imperfect tests: application to COVID-19 serosurveillance in Haiti. <a href="https://www.medrxiv.org/content/10.1101/2020.09.11.20193052v1"> Pre-print on medRxiv. </a> <i> See <a href="https://github.com/isabelfulcher/lqas_imp" style="color:#800000">code</a> to implement the the LQAS-IMP procedure.
 
 + <a href="https://www.pih.org/article/seven-country-study-examining-covid-19-impacts-health-services" style="color:#800000">Blog post</a> from Partners in Health about our ongoing health service utilization work, which was recently funded by the Canadian Institutes of Health Reserach.
 
