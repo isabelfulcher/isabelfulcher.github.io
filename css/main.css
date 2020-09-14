@@ -343,7 +343,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #d4b161;
+  color: #0085a1;
 }
 
 .post-preview .post-title {
@@ -414,7 +414,7 @@ footer .theme-by {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #d4b161;
   background-color: #CCC;
 }
 
