@@ -7,7 +7,7 @@ subtitle:
 <i> Selected material by topic is listed below. A full list of publications is available <a href="https://scholar.google.com/citations?user=Pb7FyDkAAAAJ&hl=en">here</a>.</i>
 
 <center> <strong style="font-size: 135%;"> Data-driven COVID-19 response </strong> </center> 
-I am currently working in partnership with Partners in Health sites to utilize routine data for COVID-19 response in seven countries. The work spans conducting syndromic surveillance, assessing disruptions in health service utilization, and serosurveillance studies in various at-risk populations. 
+I am currently working in partnership with Partners in Health sites to utilize routine data for COVID-19 response in seven countries. The work spans multiple activities: conducting syndromic surveillance, assessing disruptions in health service utilization, and designing serosurveillance studies in various at-risk populations. 
 
 + Fulcher, I. R., Clisbee, M., Lambert, W., Leandre, F., Hedt-Gauthier, B. (2020). Adapting Lot Quality Assurance Sampling to accommodate imperfect tests: application to COVID-19 serosurveillance in Haiti. <a href="https://www.medrxiv.org/content/10.1101/2020.09.11.20193052v1"> Pre-print on medRxiv. </a> <i> See <a href="https://github.com/isabelfulcher/lqas_imp">code</a> to implement the the LQAS-IMP procedure.
 
@@ -39,4 +39,5 @@ on procedural timing among adolescents seeking abortion. <a href="https://journa
 
 + Fulcher, I. R., Hedt, K., Marealle, S., Abdalla O., Tibaijuka, J., Hoffman, R., Layer, E., Mitchell, M., and Hedt-Gauthier, B. (2020). Errors in estimated gestational ages reduce the likelihood of health facility deliveries: results from an observational cohort study in Zanzibar. <a href="https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-4904-5">BMC Health Services Research</a>. <i> See <a href="https://www.d-tree.org/post/errors-in-estimated-delivery-dates-explanation-impact-and-a-path-forward">blog post</a> that summarizes implications of these findings for summary of results. </i>
 
++ Fulcher, I. R., Neill, S., Bharadwa, S., Goldberg, A., and Janiak, E. (2020). State and Federal Abortion Restrictions Increase Risk of COVID-19 Exposure by Mandating Unnecessary Clinic Visits. <a href="https://www.contraceptionjournal.org/article/S0010-7824(20)30340-1/fulltext">Contraception</a>. <i> Our <a href="https://harvard-data-science.shinyapps.io/averted_ab_visits/">online tool</a> gives results for potential varied future legal and regulatory scenarios. </i>
 
