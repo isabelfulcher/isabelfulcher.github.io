@@ -4,6 +4,12 @@ title: Teaching
 subtitle: 
 ---
 
+<strong style="font-size: 125%;"> Time series modeling methods for syndromic surveillance </strong>  
+**Harvard Medical School & Partners In Health (Remote)**  
+_Instructor, Summer 2018_  
+
++ **Description:** The goal is to introduce attendees to concepts in time series modeling, with a particular focus on syndromic surveillance using routine health systems data. The contents available here include lecture slides and materials for the lab sessions.
++ **Materials:** <a href="https://isabelfulcher.github.io/CIHR_training_course/"> Course webpage </a> (slides, lab sessions)
 
 <img src="https://isabelfulcher.github.io/img/ginger.png"
      style="float: right; margin-right: 10px;"
