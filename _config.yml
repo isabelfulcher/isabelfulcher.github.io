@@ -17,20 +17,16 @@ baseurl: ""
 title: Isabel Fulcher
 
 # Short description of your site
-description: Isabel Fulcher's personal homepage
+description: Isabel Fulcher's webpage has moved
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "http://isabelfulcher.github.io"
-  Research: "research"
-  Teaching: "teaching"
-  CV: "img/ifulcher_cv.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/initials_final2.png"
+#avatar: 
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -53,11 +49,11 @@ avatar: "/img/initials_final2.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Isabel Fulcher
-  email: "isabelfulcher@g.harvard.edu"
+  #name: Isabel Fulcher
+  #email: "isabelfulcher@g.harvard.edu"
   #facebook: yourname  # eg. daattali
-  github: isabelfulcher    # eg. daattali
-  twitter: isabelfulcher   # eg. daattali
+  #github: isabelfulcher    # eg. daattali
+  #twitter: isabelfulcher   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   #linkedin: yourname  # eg. daattali
